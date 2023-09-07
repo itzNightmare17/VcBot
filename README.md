@@ -1,2 +1,1 @@
-# VcBot
-Vc Bot repository.
+# VCBOT files of [OreO](https://github.com/itzNightmare17/Oreo)
